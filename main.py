@@ -6,3 +6,4 @@ def func(strings: str):
 
 
 print(func("mainniam"))
+print("1")
